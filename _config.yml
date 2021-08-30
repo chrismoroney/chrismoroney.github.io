@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Chris Moroney
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Chris Moroney
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
-email: christopher.moroney1@gmail.com.com
+email: christopher.moroney1@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
+github_username: chrismoroney
+codepen_username: chrismoroney
+dev_username: 
 linkedin_username: christopher-moroney-36baa11a3/
-twitter_username: exampleUser
+twitter_username: chrismoroney39
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: <h1> Hello! &#128075;</h1> My name is <b>Chris Moroney</b>, a software engineer who graduated from Seattle Pacific University in 2021. <br><br> I have worked at deeplearning.ai as a Software Engineer, first as an intern in 2020, and then under temporary assignment in 2021. <br><br> I’m seeking a software engineering position that will allow me to use and develop my skills in full stack development and/or Machine Learning. <br><br> Explore my <a class="highlight-link" href="https://github.com/chrismoroney" target="_blank" rel="noreferrer"> GitHub </a> here, where I have listed many of the projects I have worked on including work on <a class="highlight-link" href="https://github.com/chrismoroney/Artificial-Intelligence-Coursera-Tensorflow" target="_blank" rel="noreferrer">Artificial Intelligence with TensorFlow </a>, <a class="highlight-link" href="https://github.com/chrismoroney/deeplearning.ai-work" target="_blank" rel="noreferrer">work</a> from the <a class="highlight-link" href="https://www.deeplearning.ai/program/ai-for-medicine-specialization/" target="_blank" rel="noreferrer">AI For Medicine specialization</a> at <a class="highlight-link" href="https://www.deeplearning.ai/" target="_blank" rel="noreferrer">Deeplearning.ai</a>, and more. <br><br> My full <b>resume</b> is also available <a class="highlight-link" href="https://docs.google.com/document/d/e/2PACX-1vTm9YgZtzpRXPgBhb3gMDii4hbzyhYBfYDmgUABKnvKTGe2KYSyZ8wyDzY8XsSMN4htfwuPrUIg3Jxx/pub" target="_blank" rel="noreferrer">here</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://docs.google.com/document/d/e/2PACX-1vTm9YgZtzpRXPgBhb3gMDii4hbzyhYBfYDmgUABKnvKTGe2KYSyZ8wyDzY8XsSMN4htfwuPrUIg3Jxx/pub
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -81,12 +81,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Feel free to contact me with any of these methods below!
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: chrismoroney.chrismoroney.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -105,6 +105,23 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
+    - chrismoroney.github.io
+    - Seattle-Pacific-University-CSC-3430
+    - Seattle-Pacific-University-MAT-3380
+    - mameon
+    - chrismoroney
+    - Seattle-Pacific-University-CSC-4151-4152
+    - spu-hackathon
+    - Seattle-Pacific-University-CSC-4210
+    - Seattle-Pacific-University-CSC-3221
+    - Seattle-Pacific-University-CSC-3310
+    - Seattle-Pacific-University-CSC-3760
+    - Seattle-Pacific-University-CSC-3220
+    - Seattle-Pacific-University-EE-1210
+    - Bellevue-College-CS-210
+    - Bellevue-College-CS-211
+    - Bellevue-College-CS-212
+    - Bellevue-College-BUSIT-103
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics

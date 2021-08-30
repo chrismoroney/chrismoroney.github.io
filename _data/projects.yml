@@ -13,21 +13,73 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: LingoJive
+  descr: "LingoJive is a platform that connects language learners worldwide primarily using the “language exchange” method of learning. Language exchange simply means that instead of paying money to a teacher, peers can “pay” each other by reciprocating language instruction in their own native language. This is a very popular method of learning foreign languages online, but we believe it can be implemented more effectively than existing applications. People have been unable to experience different cultures during the COVID-19 pandemic, and LingoJive hopes to bring a little bit of diversity to people’s lives during this time. Through text messages and video chat, we hope that users will be able to make friends around the world and train in their new language. Part of LingoJive’s unique functionality includes a timer for switching the language currently being spoken in a conversation. In the spirit of “language exchange”, it is important that both users get the opportunity to speak and practice both languages. Additional functionalities include the ability to earn achievement badges and rate other users. These functionalities will encourage users to engage in conversations and improve their skills. Users will also be able to post to a feed and broadcast questions in a forum-type setting. We hope that LingoJive can serve a small role in the important process of global culture exchange during the age of the COVID-19 pandemic when travel is so restricted."
+  demo: http://lingojive.herokuapp.com/
   tags:
     - tag: MongoDB
     - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: NodeJS
+    - tag: npm
+    - tag: Heroku
+    - tag: Bootstrap
+    - tag: JavaScript
+    - tag: HTML
+    - tag: CSS
+    - tag: Scrum
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
+- name: Community Small Groups
+  descr: "Outreach and fellowship are very important principles in the Christian community. Thus, many churches and communities create small groups in order to share and study the gospel as well as to provide brother/sisterhood in the church community. Part of this fellowship involves meeting many different people. However, it can be difficult for people to meet new people in a community, and it also can be difficult for church leaders to assign groups on a weekly basis while encouraging outreach and meeting new people. This is exactly what out project aims to solve. Using a directed graph, we can define a relationship between a set of people as a person visiting another's house. The nodes of this graph would be the people, and the directed edges indicate who has visited whose house. In order to establish a set of hosts, we switch up the hosts each week in order for every person to be able to eventually visit everyone's houses. We also use various queues to assign people to fill into various houses if they already have visited all of the hosts, or if all of the groups are filled up and there are leftover people."
+  demo: https://www.youtube.com/watch?v=LdWwhwINwyc
+  tags: 
     - tag: Python
-    - tag: Django
+    - tag: Data Structures
+    - tag: Algorithm
+    - tag: Directed Graph
+    - tag: Run Time Complexity
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Shopping Bot
+  descr: "Google’s Do-it-yourself artificial intelligence kits, also known as AIY allow you to create and program devices using concepts from AI such as Computer Vision, Speech Detection or Natural Language Processing. Here I demonstrate my project, built on AIY, that provides a shopping bot. I tell it what I want to buy, and it will find matching products on eBay, emailing me the results, so I can see if there’s anything I like!"
+  demo: https://www.youtube.com/watch?v=X93Xn1YfY7k
+  tags:
+    - tag: Artificial Intelligence
+    - tag: Python
+    - tag: Natural Language Processing 
+    - tag: Transfer Learning
+    - tag: Raspberry Pi
+
+- name: Mameon
+  descr: "Mameon is a startup business from the Stanford Startup Garage class and Startup Venture Studio that I had the opportunity to work on. Mameon's purpose is to sell inexpensive advertisements to other startup businesses so that these startup businesses have an opportunity to share their stories. Rather than having to spend thousands of dollars on an advertisement, Mameon allows its customers to create customizable advertisements through its unique scripting process. This allows small businesses to create an advertisement that tells their own story, rather than having another company create the story for them."
+  demo: https://mameon.com/
+  tags:
+    - tag: JavaScript
+    - tag: HTML
+    - tag: CSS
+    - tag: Scrum
+    - tag: Typeform
+    - tag: Google Docs
+
+- name: AI for Medicine
+  descr: "I did extensive programming in Python to create notebooks to help students learn how to use Artificial Intelligence in healthcare diagnosis. This was to support the specialization taught by Andrew Ng and some of my other colleagues at deeplearning.ai"
+  demo: https://github.com/chrismoroney/deeplearning.ai-work/blob/master/AI4M%20C1%20W2%20Metrics/metrics.ipynb
+  tags: 
+    - tag: Artificial Intelligence
+    - tag: Python
+    - tag: Numpy
+    - tag: Pandas
+    - tag: Matplotlib
+    - tag: Scikit-learn
+    - tag: Datasets
+    - tag: Jupyter Notebook
+
+- name: Steganography
+  descr: "Steganography is the art of hiding data in images. While studying JavaScript through Duke Univerisity's Programming Foundations Course on Coursera, I built a system that uses JavaScript to hide one image inside another."
+  demo: https://codepen.io/chrismoroney/pen/vKZkpr
+  tags: 
+    - tag: Steganography
+    - tag: JavaScript
+    - tag: HTML
+    - tag: CSS
+    - tag: Bits
+    - tag: Shifting
+  

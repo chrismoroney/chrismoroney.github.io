@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Deeplearning.ai
+  title-url: https://www.deeplearning.ai/about/
+  date: June 2021 - Present
+  subtitle: Software Engineering
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: JavaScript
+    - tag: Python
+    - tag: Swift
+    - tag: iOS
+    - tag: Kotlin
+    - tag: Android
+    - tag: Artificial Intelligence
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Deeplearning.ai
+  title-url: https://www.deeplearning.ai/about/
+  date: July 2020 - Sep 2020
+  subtitle: Software Engineering Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Jupyter Notebook
+    - tag: Google Colab
+    - tag: Python
+    - tag: TensorFlow
+    - tag: Numpy
+    - tag: Pandas
+    - tag: Artificial Intelligence
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Seattle Pacific University
+  title-url: https://spu.edu/
+  date: Sep 2019 - Jun 2021
+  subtitle: Bachelors of Science (BS) in Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
+- title: Bellevue College
+  title-url: https://www.bellevuecollege.edu/
+  date: Sep 2017 - Jun 2019
+  subtitle: Associate in Arts & Sciences (DTA)
+  timeline-side: left
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Western Aerospace Program
+  title-url: https://www.museumofflight.org/WAS
+  date: Oct 2017 - Aug 2018
+  subtitle: 5 Credit Hours - University of Washington
   timeline-side: left

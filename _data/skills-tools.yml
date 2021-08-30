@@ -9,28 +9,28 @@
   weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 1
 
 - name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
   weight: 2
 
 - name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
+  weight: 5
 
 - name: VS Code
-  weight: 3
+  weight: 2
 
 - name: Postman
+  weight: 5
+
+- name: SQL Server
+  weight: 2
+
+- name: MongoDB
   weight: 4
+
+- name: SQLite
+  weight: 2
+
+- name: Heroku
+  weight: 5
