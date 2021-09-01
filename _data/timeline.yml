@@ -31,6 +31,12 @@
     - tag: Artificial Intelligence
   timeline-side: right
 
+- title: HarvardX
+  title-url: https://credentials.edx.org/credentials/ffbd5cc1723741389d205efcf88239b9/
+  date: December 2020 - March 2021
+  subtitle: Tiny Machine Learning (TinyML) Professional Certificate
+  timeline-side: left
+
 - title: Deeplearning.ai
   title-url: https://www.deeplearning.ai/about/
   date: July 2020 - Sep 2020
