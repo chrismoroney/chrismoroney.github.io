@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: <h1> Hello! &#128075;</h1> My name is <b>Chris Moroney</b>, a software engineer who graduated from Seattle Pacific University in 2021. <br><br> I have worked at deeplearning.ai as a Software Engineer, first as an intern in 2020, and then under temporary assignment in 2021. <br><br> I’m seeking a software engineering position that will allow me to use and develop my skills in full stack development and/or Machine Learning. <br><br> Explore my <a class="highlight-link" href="https://github.com/chrismoroney" target="_blank" rel="noreferrer"> GitHub </a> here, where I have listed many of the projects I have worked on including work on <a class="highlight-link" href="https://github.com/chrismoroney/Artificial-Intelligence-Coursera-Tensorflow" target="_blank" rel="noreferrer">Artificial Intelligence with TensorFlow </a>, <a class="highlight-link" href="https://github.com/chrismoroney/deeplearning.ai-work" target="_blank" rel="noreferrer">work</a> from the <a class="highlight-link" href="https://www.deeplearning.ai/program/ai-for-medicine-specialization/" target="_blank" rel="noreferrer">AI For Medicine specialization</a> at <a class="highlight-link" href="https://www.deeplearning.ai/" target="_blank" rel="noreferrer">Deeplearning.ai</a>, and more. <br><br> My full <b>resume</b> is also available <a class="highlight-link" href="/assets/chrismoroneyresume.pdf" target="_blank" rel="noreferrer">here</a>.
+about_me_description: <h1> Hello! &#128075;</h1> My name is <b>Chris Moroney</b>, a software engineer who graduated from Seattle Pacific University in 2021. <br><br> I have worked at deeplearning.ai as a Software Engineer, first as an intern in 2020, and then under temporary assignment in 2021. <br><br> I’m seeking a software engineering position that will allow me to use and develop my skills in full stack development and/or Machine Learning. <br><br> Explore my <a class="highlight-link" href="https://github.com/chrismoroney" target="_blank" rel="noreferrer"> GitHub </a> here, where I have listed many of the projects I have worked on including work on <a class="highlight-link" href="https://github.com/chrismoroney/Artificial-Intelligence-Coursera-Tensorflow" target="_blank" rel="noreferrer">Artificial Intelligence with TensorFlow </a>, <a class="highlight-link" href="https://github.com/chrismoroney/deeplearning.ai-work" target="_blank" rel="noreferrer">work</a> from the <a class="highlight-link" href="https://www.deeplearning.ai/program/ai-for-medicine-specialization/" target="_blank" rel="noreferrer">AI For Medicine specialization</a> at <a class="highlight-link" href="https://www.deeplearning.ai/" target="_blank" rel="noreferrer">Deeplearning.ai</a>, and more. <br><br> My full <b>resume</b> is also available <a class="highlight-link" href="https://drive.google.com/file/d/1_e7vQEwxICPTPil09eSl6k0gcLw-wjRU/view?usp=sharing" target="_blank" rel="noreferrer">here</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: /assets/chrismoroneyresume.pdf
+cv_download_link: https://drive.google.com/file/d/1_e7vQEwxICPTPil09eSl6k0gcLw-wjRU/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
