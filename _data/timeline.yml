@@ -19,7 +19,7 @@
 
 - title: Deeplearning.ai
   title-url: https://www.deeplearning.ai/about/
-  date: June 2021 - Present
+  date: June 2021 - Sep 2021
   subtitle: Software Engineering
   tags:
     - tag: JavaScript
@@ -33,7 +33,7 @@
 
 - title: HarvardX
   title-url: https://credentials.edx.org/credentials/ffbd5cc1723741389d205efcf88239b9/
-  date: December 2020 - March 2021
+  date: Dec 2020 - Mar 2021
   subtitle: Tiny Machine Learning (TinyML) Professional Certificate
   timeline-side: left
 
@@ -50,6 +50,12 @@
     - tag: Pandas
     - tag: Artificial Intelligence
   timeline-side: right
+
+- title: Deeplearning.ai / Coursera
+  title-url: https://coursera.org/share/2e14c28e2dd7542b350c0b740641cb1e
+  date: Sep 2020 - Oct 2021
+  subtitle: AI Developer Professional Certificate
+  timeline-side: left
 
 - title: Seattle Pacific University
   title-url: https://spu.edu/
