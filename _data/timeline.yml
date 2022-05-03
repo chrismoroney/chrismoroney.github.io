@@ -17,10 +17,25 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Cambia Health Services
+  title-url: https://www.cambiahealth.com/
+  date: January 2022 - Present
+  subtitle: Software Development Engineer I
+  tags:
+    - tag: Python
+    - tag: SQL
+    - tag: SQL Server
+    - tag: Oracle
+    - tag: SAS
+    - tag: Python
+    - tag: Impact Intelligence (Optum)
+    - tag: Optimization
+  timeline-side: right
+
 - title: Deeplearning.ai
   title-url: https://www.deeplearning.ai/about/
   date: June 2021 - Sep 2021
-  subtitle: Software Engineering
+  subtitle: Software Engineer
   tags:
     - tag: JavaScript
     - tag: Python
