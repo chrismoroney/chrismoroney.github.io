@@ -17,9 +17,27 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Milliman - Seattle Health
+  title-url: https://us.milliman.com/en/
+  date: January 2023 - Present
+  subtitle: Software Engineer
+  tags:
+    - tag: C#
+    - tag: JavaScript
+    - tag: React
+    - tag: SQL
+    - tag: SQL Server
+    - tag: Amazon Data Factory
+    - tag: Azure Synapse
+    - tag: Optimization
+    - tag: VBA
+    - tag: Excel
+  timeline-side: right
+
+
 - title: Cambia Health Services
   title-url: https://www.cambiahealth.com/
-  date: January 2022 - Present
+  date: January 2022 - December 2022
   subtitle: Software Development Engineer I
   tags:
     - tag: Python
