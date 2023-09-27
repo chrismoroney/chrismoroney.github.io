@@ -34,3 +34,12 @@
 
 - name: Heroku
   weight: 5
+
+- name: DevOps
+  weight: 3
+
+- name: Azure Synapse
+  weight: 2
+
+- name: Azure Data Factory
+  weight: 4

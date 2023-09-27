@@ -9,7 +9,10 @@
   weight: 5
 
 - name: C
-  weight: 3
+  weight: 2
+
+- name: C#
+  weight: 4
 
 - name: Python
   weight: 5
@@ -18,16 +21,16 @@
   weight: 2
 
 - name: Rust
-  weight: 2
+  weight: 1
 
 - name: Prolog
   weight: 2
 
 - name: Scheme
-  weight: 2
+  weight: 3
 
 - name: R
-  weight: 4
+  weight: 2
   
 - name: C++
   weight: 3
