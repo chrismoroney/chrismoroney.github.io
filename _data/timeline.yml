@@ -17,12 +17,20 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: TensorFlow Certified
+  title-url: https://www.credential.net/1f45a6c1-6e9f-4d68-a36a-c8a8c0458981
+  date: Nov 2023 - Nov 2026
+  subtitle: TensorFlow Developer Certificate
+  timeline-side: left
+
+
 - title: Milliman - Seattle Health
   title-url: https://us.milliman.com/en/
   date: January 2023 - Present
   subtitle: Software Engineer
   tags:
     - tag: C#
+    - tag: Python
     - tag: JavaScript
     - tag: React
     - tag: SQL
@@ -32,6 +40,7 @@
     - tag: Optimization
     - tag: VBA
     - tag: Excel
+    - tag: Databricks
   timeline-side: right
 
 
